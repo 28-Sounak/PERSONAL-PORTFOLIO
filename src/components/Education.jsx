@@ -52,6 +52,34 @@ function Education()
                         <strong>Expected Graduation:</strong> June 2027
                     </p>
 
+                    <p>
+                        <strong>Class XII: </strong> Assemsbly of God Church School, Kolkata, India
+                    </p>
+
+                    <p>
+                        <strong>Stream: </strong> Science Stream
+                    </p>
+
+                    <p>
+                        <strong>Year of Completion: </strong> 2023
+                    </p>
+
+                    <p>
+                        <strong>Marks: </strong> 81%
+                    </p>
+
+                    <p>
+                        <strong>Class X: </strong> Assemsbly of God Church School, Kolkata, India
+                    </p>
+
+                    <p>
+                        <strong>Year of Completion: </strong> 2021
+                    </p>
+
+                    <p>
+                        <strong>Marks: </strong> 89%
+                    </p>
+
                 </div>
 
             </div>
