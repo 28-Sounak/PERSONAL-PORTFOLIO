@@ -34,7 +34,7 @@ function Navbar()
 
                 <a href = "#projects">Projects</a>
 
-                <a href = "#experiments">Experiments</a>
+                <a href = "#experience">Experience</a>
 
                 <a href = "#education">Education</a>
 

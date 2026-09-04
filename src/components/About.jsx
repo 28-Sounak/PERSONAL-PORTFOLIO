@@ -1,8 +1,13 @@
+import profileImage from "../assets/picture.png";
+
 function Hero()
 {
     return(
-        <section id = 'about'>
-            <h1>ABOUT ME</h1>
+        <section id = "about">
+            <div className = "about-container">
+
+                <div className = "about-text">
+                    <h1>ABOUT ME</h1>
 
             <p>
                 I’m a Computer Engineering student with a strong interest in software development, 
@@ -68,6 +73,19 @@ function Hero()
                 Ultimately, I want to continue growing as a software developer by combining strong fundamentals with practical experience. I’m always looking for 
                 new problems to solve, technologies to explore, and projects that challenge me to think differently and become a better engineer.
             </p>
+
+                </div>
+
+
+                <div className = "about-image">
+                <img
+                src = {profileImage}
+                alt = "Sounak Banerjee"
+                />
+            </div>
+            </div>
+            
+            
 
         </section>
     );
